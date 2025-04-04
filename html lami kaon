@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<head><title>Life craft - The Mastery of Life</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="C:\Users\Lenovo\Documents\html new website\logo.png" " title="LAMI KAON RECIPE"style="width:100%; max-width:100px;">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="Recipe.html">Article</a></td>
+<td><a href="habits.html">Habits</a></td>
+<td><a href="skill.html">Skill</a></td>
+<td><a href="quotes.html">Quotes</a></td>
+<td><a href="books.html">Books</a></td>
+</tr>
+</table>
+</nav>
+<hr>
+<h2>Welcome to my Life!</h2>
+
+<p>
+Make your life more easier.
+</p>
+
+<img src="heo.jpg" width="50%" height="50%" title="My Perfect Man">
+
+<ul>
+<li>You make my world brighter just by being in it.</li>
+<li>Every moment with you feels like a gift.</li>
+<li>I feel so lucky to have you in my life.</li>
+<li>The way you care about people is something I really admire.</li>
+<li>the loving and caring you will always be my fav</li>
+<li>I feel safe and at peace whenever I’m with you.</li>
+<li>makemy day worth every time i'm with you</li>
+<p><strong>My Love Just for You</strong></p>
+<p><cite>Paner</cite> was meant to be mine.</p>
+<bdo dir="rtl">I Love You</bdo>
+
+<hr>
+<footer>
+<a href=""><img src="img/.jpg" title=""></a><br>
+Copyright &copy; LAMI KAON RECIPE 2024-2025
+</footer>
+</ul>
+</body>
